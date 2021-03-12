@@ -1,5 +1,6 @@
-# Dynamic Svg Images
-I need a cooler name for this...
+<a href="#">
+    <img src="https://raw.githubusercontent.com/alexleybourne/dynamic-svg-images/master/assets/Logo.png" alt="Dynamic Svg logo" width="400">
+</a>
 
 ---
 
